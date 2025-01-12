@@ -1,0 +1,68 @@
+nav{
+display: flex;
+
+
+
+}
+.header{
+    background-color: #C6E4D6;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 64px 100px;
+    width: 1280px;
+    gap: 16px 24px;
+    padding: 100px;
+    
+}
+
+.banner-content{
+    width: 622px;
+    
+}
+
+
+.btn-primary{
+background-color: #006a50;
+font-weight: semi-bold;
+color: white;
+padding: 17px 35px;
+border-radius: 8px;
+border: none;
+}
+.banner-title{
+font-weight: medium;
+  color: #0E0E0E;
+  margin: 16px;  
+}
+.banner-description{
+color: #0E0E0E;
+font-weight: 56px;
+width: 622px;
+height: 201px;
+}
+.banner-pic{
+
+    width: 474px;
+    padding: 64px 80px 100px;
+}
+
+.pillars{
+    display: flex;
+    gap: 30px;
+    border-radius: 16px;
+    
+}
+.img-description{
+    padding: 24px;
+    padding: 24px;
+    box-sizing: content-box;
+    
+}
+.main-contents{
+    border-radius: 16px;
+    box-shadow: 0px 4px 25px 0px black;
+    padding: 24px;
+}
