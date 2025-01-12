@@ -48,21 +48,145 @@ height: 201px;
     width: 474px;
     padding: 64px 80px 100px;
 }
+.section-title{
+
+    font-weight: 40px;
+}
 
 .pillars{
-    display: flex;
+    
     gap: 30px;
     border-radius: 16px;
     
-}
-.img-description{
-    padding: 24px;
-    padding: 24px;
-    box-sizing: content-box;
     
 }
-.main-contents{
-    border-radius: 16px;
-    box-shadow: 0px 4px 25px 0px black;
+.main{
+    display: flex;
     padding: 24px;
+    gap: 24px;
+   
+}
+
+
+.main-contents{
+    
+    border-radius: 16px;
+    background-color: #5490F5;
+  padding: 30px;
+    box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
+.visions{
+    display: flex;
+    padding: 32px;
+    gap: 142px;
+    
+    justify-content: space-between;
+}
+
+.vission{
+
+    margin-top: 10px;
+    border-radius: 16px;
+    padding: 12px;
+}
+.button-second1{
+background-color: #5490F5;
+font-weight: 16px;
+color: white;
+border-radius: 8px;
+padding: 20px 11px;
+border: none;
+
+}
+
+.button-second2{
+background-color: #09A15C;
+font-weight: 16px;
+color: white;
+border-radius: 8px;
+padding: 20px 11px;
+border: none;
+}
+
+.button-second3{
+background-color: #FFC239;
+font-weight: 16px;
+color: white;
+border-radius: 8px;
+padding: 20px 11px;
+border: none;
+
+}
+
+.vision-description{
+
+font-weight: 16px;
+  
+}
+.vission-contents{
+box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.25);
+
+}
+.portion{
+    gap: 12px;
+    padding:48px 48px 24px;
+    box-shadow: 0px 4px 4px 25px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    text-align: left;
+    margin: 20px;
+    }
+
+
+.name{
+font-weight: 20px;
+color: #0E0E0E;
+padding: 24px;
+text-align: left;
+
+}
+.paragraph{
+width: 1232px;
+height: 96px;
+color: #0E0E0E;
+padding: 24px;
+text-align: left;
+
+
+}
+.text{
+    text-align: left;
+    padding: 24px;
+}
+.news-contents{
+
+    display: flex;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.sat-pic{
+
+    width:408px ;
+    height: 306px;
+    border-radius: 24px;
+
+    
+}
+.news-main{
+
+    padding: 48px;
+   
+
+}
+.side-portion{
+
+    padding: 48px 56px;
+}
+.news-title{
+
+    text-align:left;
 }
